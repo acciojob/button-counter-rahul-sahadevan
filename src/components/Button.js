@@ -10,7 +10,7 @@ function Increase(){
 
     return(
         <>
-        <p>Button cliked {count} times</p>
+        <p>Button clicked {count} times</p>
         <button onClick={handleCount}>Click me</button>
         </>
     )
